@@ -1,0 +1,26 @@
+[
+     {
+          "name": "Sugar",
+          "price": 120.0
+     },
+     {
+          "name": "Wheat",
+          "price": 453.0
+     },
+     {
+          "name": "Salt",
+          "price": 130.0
+     },
+     {
+          "name": "Fish",
+          "price": 200.0
+     },
+     {
+          "name": "vegetable ",
+          "price": 12.0
+     },
+     {
+          "name": "rice",
+          "price": 100.0
+     }
+]
